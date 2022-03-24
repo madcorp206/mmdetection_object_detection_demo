@@ -4,7 +4,7 @@
                         <size><width>1280</width><height>720</height><depth>3</depth></size>
                         <segmented>0</segmented>
                         <object>
-                            <name>book</name><bndbox><xmin>270</xmin><ymin>200</ymin><xmax>722</xmax><ymax>652</ymax></bndbox>
+                            <name>book</name><bndbox><xmin>270</xmin><ymin>200</ymin><xmax>722</xmax><ymax>882</ymax></bndbox>
                             <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult>
                         </object>
                     </annotation>
