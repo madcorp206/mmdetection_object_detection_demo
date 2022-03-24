@@ -1,0 +1,11 @@
+
+                    <annotation>
+                        <folder>images</folder><filename>C390555.jpg</filename>
+                        <size><width>1280</width><height>720</height><depth>3</depth></size>
+                        <segmented>0</segmented>
+                        <object>
+                            <name>book</name><bndbox><xmin>280</xmin><ymin>210</ymin><xmax>718</xmax><ymax>884</ymax></bndbox>
+                            <pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult>
+                        </object>
+                    </annotation>
+                
