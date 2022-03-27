@@ -1,7 +1,7 @@
 
                     <annotation>
                         <folder>images</folder><filename>B519326.jpg</filename>
-                        <size><width>1280</width><height>720</height><depth>3</depth></size>
+                        <size><width>720</width><height>1280</height><depth>3</depth></size>
                         <segmented>0</segmented>
                         <object>
                             <name>book</name><bndbox><xmin>320</xmin><ymin>370</ymin><xmax>722</xmax><ymax>894</ymax></bndbox>
